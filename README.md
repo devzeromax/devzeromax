@@ -19,7 +19,7 @@
 <img align="right" width="38%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <h3>
-  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ **Karthik**!
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Karthik!
 </h3>
 *Digital Craftsman (Full Stack Developer / Security Researcher / AI Enthusiast)*
 <br/>
@@ -54,9 +54,8 @@ I'm a passionate BTech IT student who loves building full-stack web applications
 <h2 align="center">GɪᴛHᴜʙ Sᴛᴀᴛs</h2>
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub Stats" height="165" />
   <a href="https://git.io/streak-stats">
-    <img src="./profile/streak.svg" alt="GitHub Streak" height="165" />
+    <img src="streak.svg" alt="GitHub Streak" height="165" />
   </a>
 </p>
 
